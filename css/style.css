@@ -19,6 +19,7 @@ background-color:#C0C0C0;
 h2 , h3{
 text-transform: uppercase;
 font-size:120%;
+font-weight:bold;
 
 }
 /* iPad Portrait/Browser */
